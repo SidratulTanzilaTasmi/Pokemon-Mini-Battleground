@@ -1,0 +1,5 @@
+#ifndef _resource_rc
+#define _resource_rc
+MAINICON ICON "img/Pikachu_Shuffle_small.ico"
+
+#endif
