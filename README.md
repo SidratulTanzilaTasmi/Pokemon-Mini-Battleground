@@ -1,7 +1,7 @@
 # Pokémon Mini BattleGround
 ## A two-player game that allows users to create a team of 6 Pokémon and battle against each other using turn based mechanics similar to those found in the Pokémon video game series. This project was made for the Structured Programming Lab during my 1st year of undergraduate program.
 ### Project Partner: [MD. Irfanur Rahman Rafio](https://github.com/rafio-iut), ID: 190041125
-##[Sheikh Faiyaz Karim], ID: 190041116
+### [Sheikh Faiyaz Karim], ID: 190041116
 ### [Download](https://www.dropbox.com/s/m2blpma6g0ls7r5/Pok%C3%A9mon-Mini-Battleground-setup.exe?dl=1)
 ### Idea Credit - Talha Ibn Aziz Sir
 
